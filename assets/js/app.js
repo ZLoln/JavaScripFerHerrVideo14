@@ -1,6 +1,6 @@
 
 
-alert('Hola desde app.js');
+//alert('Hola desde app.js');
 
 
 //console.log('Hola Mundo');
@@ -24,6 +24,10 @@ console.log ( {c} );*/
 c = 'Hola de nuevo ';
 
 //console.table({a, b, c, d, x }); //nos muestra este objeto en forma de tabla con  un index y el valor correspondiente de cada una de las propiedades.
+
+let miNuevoNombre = 'Lola Navarro';
+
+console.log (miNuevoNombre + ' López');
 
 let outerWidth = 1000000;
 
